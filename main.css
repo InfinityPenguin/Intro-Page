@@ -1,0 +1,59 @@
+.big {
+	text-align: center;
+	font-size: 50px;
+	height: 80px;
+	width: 800px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+body {
+	background-color: #A80000;
+	background: url('wild_flowers.png')
+}
+
+.navigation {
+	height: 40px;
+	width: 720px;
+	font-size: 15-px;
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+	font-family: "Arial";
+}
+
+.subtitle {
+	height: 40px;
+	width: 720px;
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+	font-family: "Arial";
+}
+
+.main {
+	height: 400px;
+	width: 400px;
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+	font-family: "Arial";
+}
+
+.mainx{
+	height: 401px;
+	width: 802px;
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+	font-family: "Arial";
+}
+
+.footer {
+	height: 80px;
+	width: 100px;
+	margin-left: auto;
+	margin-right: auto;
+	position: relative;
+	margin-top: 50px;
+}
