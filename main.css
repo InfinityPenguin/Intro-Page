@@ -15,7 +15,7 @@ body {
 .navigation {
 	height: 40px;
 	width: 720px;
-	font-size: 15-px;
+	font-size: 15px;
 	text-align: center;
 	margin-left: auto;
 	margin-right: auto;
@@ -25,6 +25,7 @@ body {
 .subtitle {
 	height: 40px;
 	width: 720px;
+	font-size: 25px;
 	text-align: center;
 	margin-left: auto;
 	margin-right: auto;
@@ -41,8 +42,8 @@ body {
 }
 
 .mainx{
-	height: 401px;
-	width: 802px;
+	height: 400px;
+	width: 800px;
 	text-align: center;
 	margin-left: auto;
 	margin-right: auto;
